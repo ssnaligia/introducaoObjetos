@@ -1,0 +1,13 @@
+--- JAVA ---
+
+• diferencia maiúscula de minúscula
+• deve ter pelo menos uma 'class'
+• todo arquivo deve ter o mesmo nome de sua classe 'public'
+
+p/ compilar: 
+    • verique o repositório que está com: 'ls'
+    • entre em repositórios com: 'cd'
+    • use: 'javac NomePrograma.java' para compilar
+
+p/ executar:
+    • use: 'java NomePrograma.java'
