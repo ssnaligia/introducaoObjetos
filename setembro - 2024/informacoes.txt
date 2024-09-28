@@ -10,4 +10,4 @@ p/ compilar:
     • use: 'javac NomePrograma.java' para compilar
 
 p/ executar:
-    • use: 'java NomePrograma.java'
+    • use: 'java NomePrograma.java' para executar
