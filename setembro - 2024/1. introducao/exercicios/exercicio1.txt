@@ -1,0 +1,24 @@
+Elabore uma pesquisa sobre os seguintes conceitos: JRE, JDK e JVM. Indique o significado de cada
+sigla, suas características e possibilidades de utilização. Adicione as referências utilizadas para
+pesquisa.
+
+/**
+ * Resumo sobre JRE, JDK e JVM
+ *
+ * 1. JRE (Java Runtime Environment)
+ * - Significado: Ambiente de execução para aplicativos Java.
+ * - Características: Inclui a JVM e bibliotecas Java, entretanto não há as ferramentas de desenvolvimento.
+ * - Uso: Ideal para usuários finais que precisam executar aplicativos Java.
+ *
+ * 2. JDK (Java Development Kit)
+ * - Significado: Kit de desenvolvimento Java.
+ * - Características: Inclui o JRE, JVM e ferramentas como o compilador javac e javadoc.
+ * - Uso: Essencial para desenvolvedores que criam e depuram aplicações Java.
+ *
+ * 3. JVM (Java Virtual Machine)
+ * - Significado: Máquina virtual Java.
+ * - Características: Executa bytecode Java, gerencia memória e fornece segurança.
+ * - Uso: Fundamental para a execução de qualquer programa Java, disponível em várias plataformas.
+ *
+ * Conclusão: JRE para execução, JDK para desenvolvimento e JVM para execução do bytecode.
+*/
