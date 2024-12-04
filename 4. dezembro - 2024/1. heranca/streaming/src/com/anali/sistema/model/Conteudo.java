@@ -21,12 +21,11 @@ public class Conteudo {
         this.titulo = titulo;
     }
 
-    public int setIdade(int duracao) {
+    public int setDuracao(int duracao) {
         this.duracao = duracao;
     }
 
-    public String exibirInfo(String titulo, int duracao) {
-        return this.titulo = titulo;
-        return this.duracao = duracao;
+    public void exibirInfo() {
+        System.out.println("\nTítulo: " + titulo + " | Duração: " + duracao + " min");
     }
 }
