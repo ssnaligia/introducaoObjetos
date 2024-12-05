@@ -9,8 +9,8 @@ public class Main {
         Estudante al2 = new Estudante("Ana Ligia da Silva", "821393", "AQ3029212", "Sistemas para Internet");
         Professor p2 = new Professor("Eduardo Leal", "321456", "Técnico", 2019);
         al1.exibirCad();
-        al2.exibirCad();
         p2.exibirCad();
+        al2.exibirCad();
         p1.exibirCad();
     }
 }
