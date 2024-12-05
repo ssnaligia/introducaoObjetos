@@ -26,6 +26,6 @@ public class Cadastro {
     }
 
     public void exibirCad() {
-        System.out.println("\n| Nome: " + getNome() + "\n | CPF: " + getCpf());
+        System.out.println("\n| Nome: " + nome + "\n | CPF: " + cpf);
     }
 }
